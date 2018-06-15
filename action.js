@@ -20,7 +20,7 @@ function validar() {
         loadPage('mapaT.html');
     }
     else {
-        loadPage('mapaU.html');     
+        loadPage('solicitud.html');     
     }
 
 
